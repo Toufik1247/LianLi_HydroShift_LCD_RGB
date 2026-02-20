@@ -1,0 +1,11 @@
+# Backup and local scratch files
+*.bak
+*.tmp
+*.temp
+
+# Logs
+*.log
+
+# OS/editor artifacts
+.DS_Store
+Thumbs.db
